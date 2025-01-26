@@ -182,7 +182,7 @@ with st.sidebar:
         st.rerun()
 
 # Main title
-st.title("📊 Construction Invoice/Estimate Cost Coding Assistant")
+st.title("📊 Amina's Invoice/Estimate Cost Coding Assistant")
 st.markdown("Upload an invoice/estimate image to automatically assign cost codes and analyze expenses.")
 
 # Initialize chat if not already done
